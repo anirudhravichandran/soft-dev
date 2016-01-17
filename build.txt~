@@ -1,0 +1,6 @@
+How to run this file:
+
+1. Install mysql
+2. create a new password other than the given one
+3. create a database "rollnum" and a table in that "studentdata"
+4. run this line in the sql server "grant all privileges on *.* to root@localhost identified by 'your password comes here' with grant option;"
